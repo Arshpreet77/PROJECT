@@ -1,0 +1,353 @@
+ARH Management System Main Menu
+1	- Doctor
+2	- Patient
+0	- Close Application Enter option: 1
+
+ARH Management System Doctor's Menu
+1	- List of Doctors
+2	- Search for Doctor by ID
+3	- Search for Doctor by Name/Partial Name
+4	- Add new Doctor
+5	- Edit Doctor Info
+0	- Return to Main Menu Enter option: 1
+
+ID	Name	Specialist	Schedule	Qualifications	Room	Nbr
+21	Dr.Tyler	Pharmacy	5-l1AM	PharmD,MS,RPh		17
+32	Dr.Vikram	Family Medicine	10-3AM	MBBS,MD		45
+17	Dr.Amy	General Surgery	8-2AM	BDM		8B
+33	Dr.David	Orthopedics	10-4PM	MBBS,MS		40
+123	Dr. Ross	Neurology	8-l0am	Mst,MD		102
+
+ARH Management System Doctor's Menu
+1	- List of Doctors
+2	- Search for Doctor by ID
+3	- Search for Doctor by Name/Partial Name
+4	- Add new Doctor
+5	- Edit Doctor Info
+0	- Return to Main Menu Enter option: 2
+Enter Dr ID: 99
+Doctor with ID 99 not found
+
+ARH Management System Doctor's Menu
+1	- List of Doctors
+2	- Search for Doctor by ID
+3	- Search for Doctor by Name/Partial Name
+4	- Add new Doctor
+5	- Edit Doctor Info
+0 - Return to Main Menu Enter option: 2
+Enter Dr ID:
+ 
+21	Dr.Tyler
+
+ARH Management System Doctor's Menu
+1	- List of Doctors
+ 
+Pharmacy
+ 
+5-l1AM
+ 
+PharmD,MS,RPh	17
+ 
+2	- Search for Doctor by ID
+3	- Search for Doctor by Name/Partial Name
+ 
+4	- Add new Doctor
+5	- Edit Doctor Info
+0	- Return to Main Menu Enter option: 3
+Enter the doctor name: Am
+ID	Name	Specialist	Schedule	Qualifications	Room	Nbr
+32	Dr.Vikram	Family Medicine	10-3AM	MBBS,MD		45
+17	Dr.Amy	General Surgery	8-2AM	BDM		8B
+
+ 
+ARH Management System Doctor's Menu
+1	- List of Doctors
+2	- Search for Doctor by ID
+3	- Search for Doctor by Name/Partial Name
+4	- Add new Doctor
+5	- Edit Doctor Info
+0 - Return to Main Menu Enter option: 4
+Enter Dr ID: 21
+21	Dr.Tyler	Pharmacy
+Doctor with id 21 already exists - cannot add
+
+
+
+
+
+
+
+Enter option: 4 Enter Dr ID: 64
+Enter Dr name: Dr. Michael Smith Enter Dr specialty: Cardiology Enter Dr schedule: 10pm-6am
+Enter Dr qualifications: MD,FRCPC
+Enter Dr room number: 2
+Doctor with id 64 successfully added
+
+ARH Management System Doctor's Menu
+1	- List of Doctors
+2	- Search for Doctor by ID
+3	- Search for Doctor by Name/Partial Name
+4	- Add new Doctor
+5	- Edit Doctor Info
+0 - Return to Main Menu Enter option: 5
+
+Enter ID of Doctor to be edited: 99 Dr with ID 99 not found
+ 
+
+
+
+
+
+
+
+
+
+
+5-l1AM
+ 
+
+
+
+
+
+
+
+
+
+
+PharmD,MS,RPh	17
+ 
+
+ID	Name	Specialist	Schedule	Qualifications	Room	Nbr
+21	Dr.Tyler	Pharmacy	5-l1AM	PharmD,MS,RPh		17
+32	Dr.Vikram	Family Medicine	10-3AM	MBBS,MD		45
+17	Dr.Amy	General Surgery	8-2AM	BDM		8B
+33	Dr.David	Orthopedics	10-4PM	MBBS,MS		40
+ 
+123	Dr. Ross	Neurology		8-l0am	Mst,MD	1 02
+64	Dr. Michael Smith	Cardiology		l0pm-6am	MD,FRCPC	2
+ARH	Management System Doctor's Menu			
+l -
+2 -	List of Doctors Search for Doctor by	
+ID		
+3 -	Search for Doctor by	Name/Partial	Name	
+4 -	Add new Doctor			
+5 -	Edit Doctor Info			
+0 -	Return to Main Menu			
+ 
+Enter option: 5
+Enter ID of Doctor to be edited: 17
+17	Dr.Amy	General Surgery Enter new name: Dr. Amy Jones
+Enter new specialty in: General Surgery
+Enter new schedule: 8am-4pm Enter new qualifications: BDM Enter new room number: 8B
+Dr with ID 17 successfully modified
+ 
+
+
+8-2AM
+ 
+
+
+BDM	8B
+ 
+
+ID	Name	Specialist	Schedule	Qualifications	Room	Nbr
+21	Dr.Tyler	Pharmacy	5-l1AM	PharmD,MS,RPh		17
+32	Dr.Vikram	Family Medicine	10-3AM	MBBS,MD		45
+17	Dr. Amy Jones	General Surgery	8am-4pm	BDM		8B
+33	Dr.David	Orthopedics	10-4PM	MBBS,MS		40
+123	Dr. Ross	Neurology	8-l0am	Mst,MD		102
+64	Dr. Michael Smith	Cardiology	l0pm-6am	MD,FRCPC		2
+ARH	Management System Doctor's Menu		
+l -	List of Doctors		
+2 -	Search for Doctor by	ID	
+3 -	Search for Doctor by	Name/Partial Name	
+4 -	Add new Doctor		
+5 -	Edit Doctor Info		
+0 -	Return to Main Menu		
+Enter option: 9 Enter option: k Enter option: 0
+
+ARH Management System Main Menu
+1 - Doctor
+2 - Patient
+0	- Close Application Enter option: 1
+
+ARH Management System Doctor's Menu
+1	- List of Doctors
+2	- Search for Doctor by ID
+3	- Search for Doctor by Name/Partial Name
+4	- Add new Doctor
+5	- Edit Doctor Info
+0	- Return to Main Menu Enter option: 1
+ 
+ID	Name	Specialist	Schedule	Qualifications	Room	Nbr
+21	Dr.Tyler	Pharmacy	5-l1AM	PharmD,MS,RPh		17
+32	Dr.Vikram	Family Medicine	10-3AM	MBBS,MD		45
+17	Dr. Amy Jones	General Surgery	8am-4pm	BDM		8B
+33	Dr.David	Orthopedics	10-4PM	MBBS,MS		40
+123	Dr. Ross	Neurology	8-l0am	Mst,MD		102
+64	Dr. Michael Smith	Cardiology	l0pm-6am	MD,FRCPC		2
+ARH	Management System Doctor's Menu					
+1 -	List of Doctors					
+2 -	Search for Doctor by	ID				
+3 -	Search for Doctor by	Name/Partial Name				
+4 -	Add new Doctor					
+5 -	Edit Doctor Info					
+0 -	Return to Main Menu					
+Enter option: 0
+
+ARH Management System Main Menu
+1	- Doctor
+2	- Patient
+0	- Close Application Enter option: 2
+
+ARH Management System Patient's Menu
+1	- List of Patients
+2	- Search for Patient by ID
+3	- Add new Patient
+4	- Edit Patient Info
+0 - Return to Main Menu Enter option: 1
+
+ID	Name	Diagnosis	Gender	Age
+12	Pankaj	Cancer	Male	30
+13	Sumit	Covid	Male	23
+14	Alok	Malaria	Male	45
+15	Ravi	Diabetes	Male	25
+
+ARH Management System Patient's Menu
+
+l - List of Patients
+2	- Search for Patient by ID
+3	- Add new Patient
+4	- Edit Patient Info
+0	- Return to Main Menu Enter option: 2
+
+Enter Patient ID: 99 Patient with ID 99 not found
+
+ARH Management System Patient's Menu
+1	- List of Patients
+2	- Search for Patient by ID
+3	- Add new Patient
+4	- Edit Patient Info
+ 
+0 - Return to Main Menu Enter option: 2
+Enter Patient ID: 14
+14	Alok
+
+ARH Management System Patient's Menu
+1 - List of Patients
+ 
+
+
+
+Malaria
+ 
+Male	45
+ 
+2 - Search for Patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu Enter option: 3
+Enter Patient ID: 15
+15	Ravi	Diabetes
+Patient with ID 15 already exists - cannot add
+
+ARH Management System Patient's Menu
+1 - List of Patients
+2 - Search for Patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0	- Return to Main Menu Enter option: 3
+Enter Patient ID: 16
+Enter Patient name: Ted E. Bear
+Enter Patient diagnosis: Erratic heartbeat
+Enter Patient gender: Male
+Enter Patient age: 3
+Patient with ID 16 successfully added
+
+ARH Management System Patient's Menu
+1	- List of Patients
+2	- Search for Patient by ID
+3	- Add new Patient
+4	- Edit Patient Info
+0 - Return to Main Menu Enter option: 4
+
+Enter ID of Patient to be edited: 99 Patient with ID 99 not found
+ 
+
+
+
+
+
+Male	25
+ 
+
+ID	Name		Diagnosis	Gender	Age
+12	Pankaj		Cancer	Male	30
+13	Sumit		Covid	Male	23
+14	Alok		Malaria	Male	45
+15	Ravi		Diabetes	Male	25
+16	Ted E.	Bear	Erratic heartbeat	Male	3
+ARH	
+Management System Patient's Menu	
+1 -	List of Patients	
+2 -	Search for Patient	by ID
+3 -	Add new Patient	
+ 
+4 - Edit Patient Info
+0 - Return to Main Menu Enter option: 4
+
+Enter ID of Patient to be edited: 12
+12	Pankaj	Cancer Enter new name: Pankaj K
+Enter new diagnosis: Liver Cancer
+Enter new gender: Male
+Enter new age: 31
+Patient with ID 12 successfully modified
+ 
+
+
+
+
+Male	30
+ 
+
+ID	Name	Diagnosis	Gender	Age
+12	Pankaj K	Liver Cancer	Male	31
+13	Sumit	Covid	Male	23
+14	Alok	Malaria	Male	45
+15	Ravi	Diabetes	Male	25
+16	Ted E. Bear	Erratic heartbeat	Male	3
+ARH Management System Patient's Menu
+1 - List of Patients
+2 - Search for Patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu Enter option: 9
+Enter option: f Enter option: 0
+
+ARH Management System Main Menu
+1 - Doctor
+2 - Patient
+0 - Close Application Enter option: 2
+
+ARH Management System Patient's Menu		
+1 - List of Patients
+2 - Search for Patient by
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu Enter option: 1	
+ID	
+ID	Name	Diagnosis	Gender	Age
+12	Pankaj K	Liver Cancer	Male	31
+13	Sumit	Covid	Male	23
+14	Alok	Malaria	Male	45
+15	Ravi	Diabetes	Male	25
+16	Ted E. Bear	Erratic heartbeat	Male	3
+
+ARH	Management System Patient's Menu	
+1 -	List of Patients	
+2 -	Search for Patient	by ID
+3 -	Add new Patient	
+4 -	Edit Patient Info	
+ 
+0 - Return to Main Menu Enter option: 0

@@ -1,0 +1,6 @@
+ID_Name_Specialist_Schedule_Qualifications_Room Nbr
+21_Dr.Tyler_Pharmacy_5-11AM_PharmD,MS,RPh_17
+32_Dr.Vikram_Family Medicine_10-3AM_MBBS,MD_45
+17_Dr.Amy_General Surgery_8-2AM_BDM_8B
+33_Dr.David_Orthopedics_10-4PM_MBBS,MS_40
+123_Dr. Ross_Neurology_8-10am_Mst,MD_102
